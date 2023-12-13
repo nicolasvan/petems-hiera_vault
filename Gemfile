@@ -27,6 +27,6 @@ group :development do
   gem 'rubocop'
   gem 'rubocop-rspec'
   gem 'github_changelog_generator'
-  gem 'activesupport', '< 5'
+  gem 'activesupport', '< 7'
   gem 'pdk'
 end
